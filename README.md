@@ -88,13 +88,7 @@ Once the script is running, you will be presented with several options to choose
 ### 8. **Chat**
    - Chat with the developer of Meta-Wiz.
 
-### 9. **Subscribe**
-   - Subscribe to the associated YouTube channel for updates.
-
-### 10. **Follow**
-   - Follow the Noob Hackers social media pages.
-
-### 11. **Exit**
+### 9. **Exit**
    - Exits the Meta-Wiz tool.
 
 ## Warning
