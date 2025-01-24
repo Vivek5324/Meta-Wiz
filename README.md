@@ -101,7 +101,3 @@ Once the script is running, you will be presented with several options to choose
 
 This tool is **only for educational purposes**. The developers are not responsible for any misuse of this tool outside of educational contexts. Please ensure you have permission to use this tool on any network or system.
 
-
-```
-
-You can paste this directly into your `README.md` file on GitHub. Let me know if you need any changes or additions!
